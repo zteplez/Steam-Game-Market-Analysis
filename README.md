@@ -486,34 +486,7 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 4. Push edin (`git push origin feature/AmazingFeature`)
 5. Pull Request açın
 
-### Geliştirme Fikirleri
-
-- [ ] Gerçek Steam API entegrasyonu
-- [ ] Makine öğrenmesi tabanlı öneri sistemi
-- [ ] A/B test modülü
-- [ ] Real-time veri güncelleme
-- [ ] Kullanıcı profilleme
-- [ ] Collaborative + Content-based hybrid öneri
-- [ ] Network grafiği görselleştirme
-- [ ] Export/Import özelliği
-
-### Teknik Dokümantasyon
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Plotly Documentation](https://plotly.com/python/)
-
 ### Veri Seti
 - [Kaggle - Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games)
 
-### Market Basket Analysis
-- [Market Basket Analysis in Python](https://pbpython.com/market-basket-analysis.html)
-- [Apriori Algorithm Explained](https://en.wikipedia.org/wiki/Apriori_algorithm)
-
 ---
-
-<div align="center">
-
-
-[🔝 Başa Dön](#-steam-oyun-sepet-analizi---market-basket-analysis)
-
-</div>
